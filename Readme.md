@@ -1,3 +1,23 @@
+
+
+Maker Media GmbH
+
+***
+
+# Teilchendetektor
+
+Eine Nebelkammer ist ein Gerät, mit dem ionisierende Strahlung sichtbar gemacht wird. Früher war sie ein wichtiges wissenschaftliches Instrument, heute eher ein Anschauungsobjekt, in dem man sich stundenlang verlieren kann. So einfach das Prinzip auch sein mag, die Realisierung ist nicht ohne Tücken, was wir in diesem Artikel zeigen werden.
+
+![Picture](Aufmacher.jpg) 
+
+
+
+Im Ordner cad finden Sie die 3D-Druckteile zur Nebelkammer
+
+
+
+Den vollständigen Artikel gibt es in der Make 7/25.
+
 Videos
 
 Magischer Ring
