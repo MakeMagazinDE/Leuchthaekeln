@@ -39,7 +39,9 @@ Okay, es gibt sie doch die Häkelmaschine. Und der Prototyp sieht aus wie aus ei
 
 ## Anleitung Stern
 
-In Runden häkeln  
+In Runden häkeln.
+
+ (Videos in den Links).
 
 1. Rd: 5 fM in [einen Magischen Ring](https://youtu.be/oUU4li2xvhU)  
 2. Rd: 5x 1 M verd. (10M)  
