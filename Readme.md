@@ -1,22 +1,18 @@
-
+![GitHub Logo](http://www.heise.de/make/icons/make_logo.png)
 
 Maker Media GmbH
 
-***
+# Gehäkelte LED-Anhänger
 
-# Teilchendetektor
-
-Eine Nebelkammer ist ein Gerät, mit dem ionisierende Strahlung sichtbar gemacht wird. Früher war sie ein wichtiges wissenschaftliches Instrument, heute eher ein Anschauungsobjekt, in dem man sich stundenlang verlieren kann. So einfach das Prinzip auch sein mag, die Realisierung ist nicht ohne Tücken, was wir in diesem Artikel zeigen werden.
-
-![Picture](Aufmacher.jpg) 
+**Jeder kann häkeln - oder sollte es nun unbedingt lernen! Bei diesem anfängerfreundlichen Projekt kann die ganze Familie mitmachen. Die fertigen Anhänger sehen nicht nur schön aus, sie eignen sich auch hervorragend als Geschenk.**
 
 
 
-Im Ordner cad finden Sie die 3D-Druckteile zur Nebelkammer
-
-
+![Picture](./Aufmacher.jpg) 
 
 Den vollständigen Artikel gibt es in der Make 7/25.
+
+
 
 Videos
 
