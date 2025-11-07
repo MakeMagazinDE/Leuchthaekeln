@@ -23,13 +23,13 @@ Stern häkeln Teil 1
   OK     https://youtu.be/y93mHd70Kfo
 
 Stern häkeln Teil 2
-    X  https://youtu.be/pMCjY3tLIco
+    X 
 
 Stern häkeln Teil 3
-   X   https://youtu.be/hv17a4up72E
+   X  
 
 Stern häkeln Teil 4
-    X  https://youtu.be/-XcpnKHq4h8
+    X 
 
 
 
