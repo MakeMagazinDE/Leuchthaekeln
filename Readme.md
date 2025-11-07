@@ -41,7 +41,7 @@ Okay, es gibt sie doch die Häkelmaschine. Und der Prototyp sieht aus wie aus ei
 
 In Runden häkeln  
 
-1. Rd: 5 fM in einen Magischen Ring  
+1. Rd: 5 fM in [einen Magischen Ring](https://youtu.be/oUU4li2xvhU)  
 2. Rd: 5x 1 M verd. (10M)  
 3. Rd: 10x 1 M verd. (20 M)  
 4. Rd: \*1 fM, 1 M verd\*, von \* bis \* noch 9x wiederholen (30 M)
