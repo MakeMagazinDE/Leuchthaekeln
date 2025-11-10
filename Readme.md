@@ -10,26 +10,7 @@ Maker Media GmbH
 
 ![Picture](./Aufmacher.jpg) 
 
-Den vollständigen Artikel gibt es in der Make 7/25.
-
-
-
-Videos
-
-Magischer Ring
- OK!     https://youtu.be/oUU4li2xvhU
-
-Stern häkeln Teil 1
-  OK     https://youtu.be/y93mHd70Kfo
-
-Stern häkeln Teil 2
-    X 
-
-Stern häkeln Teil 3
-   X  
-
-Stern häkeln Teil 4
-    X 
+Den Artikel gibt es in der Make 7/25.
 
 
 
@@ -39,9 +20,21 @@ Okay, es gibt sie doch die Häkelmaschine. Und der Prototyp sieht aus wie aus ei
 
 ## Anleitung Stern
 
-In Runden häkeln.  (Videos in den Links)
+## Videos
 
-1. Rd: 5 fM in [einen Magischen Ring](https://youtu.be/oUU4li2xvhU) 
+[Stern häkeln Teil 1](https://youtu.be/y93mHd70Kfo)   
+
+[Stern häkeln Teil 2](https://youtu.be/6pPh08j9PVY) 
+
+[Stern häkeln Teil 3](https://youtu.be/IEGpSzOtlk4) 
+
+[Stern häkeln Teil 4](https://youtu.be/eAIEcvt6pS8) 
+
+Das ganze in Worten:
+
+In Runden häkeln. 
+
+1. Rd: 5 fM in einen [Magischen Ring](https://youtu.be/oUU4li2xvhU) 
 2. Rd: 5x 1 M verd. (10M) 
 3. Rd: 10x 1 M verd. (20 M) 
 4. Rd: \*1 fM, 1 M verd\*, von \* bis \* noch 9x wiederholen (30 M)
@@ -60,8 +53,6 @@ Faden abschneiden und vernähen.
 Links neben der erst Sternenzacke Faden neu anketten und Reihen 1 – 6 wiederholen. Insgesamt fünf Zacken häkeln.
 
 Zwei Sterneseiten anfertigen.
-
-
 
 ## Anleitung Herz
 
