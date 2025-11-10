@@ -20,7 +20,7 @@ Okay, es gibt sie doch die Häkelmaschine. Und der Prototyp sieht aus wie aus ei
 
 ## Anleitung Stern
 
-## Videos
+### Videos
 
 [Stern häkeln Teil 1](https://youtu.be/y93mHd70Kfo)   
 
