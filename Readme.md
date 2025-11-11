@@ -88,4 +88,3 @@ Neben dem Maschenmarkierer den Faden neu anhäkeln und den zweiten Herzbogen mit
 Achtung: Nach Runde 18 die Lichterkette und Watte einarbeiten und darauf achten, dass das Kabel mittig aus dem Herz kommt. 
 
 Dann Runden 19 bis 21 weiterhäkeln und das Herz verschließen. Je nach Bedarf auch die Stelle, an der das Kabel raus guckt, etwas zunähen.
-
